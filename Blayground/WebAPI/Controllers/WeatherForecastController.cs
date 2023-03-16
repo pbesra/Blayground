@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Blayground.Controllers
+namespace Blayground.WebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
